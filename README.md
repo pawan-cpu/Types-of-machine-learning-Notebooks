@@ -25,4 +25,12 @@ User-Friendly Interface: The software should have an intuitive and user-friendly
 
 Data Privacy: Clear policies and measures must be in place to protect the privacy of both educators and students, especially if the system involves storing sensitive information.
 
+## Built With
+- Numpy
+- Pandas
+- Matplotlib
+- Joblib
+- Scikit Learn
+- Streamlit
+
 
