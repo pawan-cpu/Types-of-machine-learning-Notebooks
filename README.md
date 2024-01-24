@@ -27,6 +27,8 @@ Data Privacy: Clear policies and measures must be in place to protect the privac
 
 ## Built With
 - Numpy
+- LLM
+- Open AI API
 - Pandas
 - Matplotlib
 - Joblib
